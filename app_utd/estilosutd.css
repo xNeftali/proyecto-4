@@ -1,0 +1,91 @@
+/*Login*/
+body{
+    background-image: url(../app_utd_original/se.jpg);
+    height: 85vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+body h3{
+    font-family: cursive;
+    color: white;
+    font-size: 20px;
+    background-color: gold;
+    padding: 20px;
+    margin: 10px;   
+    width: 95%;
+    
+}
+
+input{
+    font-family: cursive;
+    padding: 10px;
+    background-color: rgb(2, 109, 77);
+    color: white;
+    border-top-color: gold;
+    border-right-color: gold;
+    border-bottom-color: gold;
+    border-left-color: gold;
+}
+
+/*Menu*/
+
+td{
+    font-family: cursive;
+    font-size: 20px;
+    margin-right: 300px;
+    justify-content: center;
+    line-height: 30px;
+    text-align: center;
+    width: 500em;
+    line-height: 3em;
+}
+
+.cont{
+    width: auto;
+    margin: 30em;
+    background-image: url(../utd/utd.png);
+    padding: 3em 3em;
+    box-sizing: border-box;
+    margin-top: 8em;
+    text-align: center;
+    font-family: cursive;
+    justify-content: center;
+    box-shadow: 7px 13px 37px;
+}
+.boton{
+    font-size: 2200em;
+    box-shadow: 7px 13px 37px;
+}
+
+.boto{
+    font-size: 100px;
+    box-shadow: 7px 13px 37px;
+}
+/*acciones*/
+
+h3{
+    font-family: cursive;
+    padding: 100em;
+    background-image: url(../utd/utd.png)
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td{
+    border: solid 3px gold;
+    padding: 20px;
+}
+
+tr:hover{
+    background-color: black;
+    color: white;
+}
+
